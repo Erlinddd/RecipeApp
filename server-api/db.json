@@ -1,0 +1,104 @@
+{
+  "recipe": [
+    {
+      "id": "1",
+      "name": "Gourmet Salmon Dinner",
+      "source": "",
+      "listOfIng": [
+        "Flour",
+        "Milk",
+        "Oil",
+        "Salt",
+        "Sugar",
+        "Eggs",
+        "Tomatoes",
+        "Peppers",
+        "Cheese",
+        "Patatoes",
+        "Meat"
+      ],
+      "preperationTime": "50min",
+      "preperationIns": "Make the creamy shallot potato puree: Melt 3 tablespoons of butter in a medium pan over medium-high heat. Add the shallots and cook for 3-4 minutes, until softened. Add the garlic and another tablespoon of butter and continue to cook for another 3-4 minutes, stirring frequently, until the shallots are browned."
+    },
+    {
+      "id": "2",
+      "name": "Baked Lobster Tails",
+      "source": "",
+      "listOfIng": [
+        "Flour",
+        "Milk",
+        "Oil",
+        "Salt",
+        "Sugar",
+        "Eggs",
+        "Tomatoes",
+        "Peppers",
+        "Cheese",
+        "Patatoes",
+        "Meat"
+      ],
+      "preperationTime": "50min",
+      "preperationIns": "Using a clean pair of scissors or kitchen shears, cut along the middle of the top of the shell towards the fins of the tail, making sure to cut in a straight line. Do not cut through the end of the tail."
+    },
+    {
+      "id": "3",
+      "name": "Puff Pastry Salmon",
+      "source": "",
+      "listOfIng": [
+        "Flour",
+        "Milk",
+        "Oil",
+        "Salt",
+        "Sugar",
+        "Eggs",
+        "Tomatoes",
+        "Peppers",
+        "Cheese",
+        "Patatoes",
+        "Meat"
+      ],
+      "preperationTime": "50min",
+      "preperationIns": "Preheat oven to 425°F (220°C).In a pan over medium heat, melt butter. Add the garlic and onions, cooking until translucent. Add the spinach, salt, and pepper, cooking until spinach is wilted."
+    },
+    {
+      "id": "4",
+      "name": "Garlic Herb Butter",
+      "source": "",
+      "listOfIng": [
+        "Flour",
+        "Milk",
+        "Oil",
+        "Salt",
+        "Sugar",
+        "Eggs",
+        "Tomatoes",
+        "Peppers",
+        "Cheese",
+        "Patatoes",
+        "Meat"
+      ],
+      "preperationTime": "50min",
+      "preperationIns": "Using a clean pair of scissors or kitchen shears, cut along the middle of the top of the shell towards the fins of the tail, making sure to cut in a straight line. Do not cut through the end of the tail."
+    },
+    {
+      "id": "5",
+      "name": "Easy Glazed Pork Chops",
+      "source": "",
+      "listOfIng": [
+        "Flour",
+        "Milk",
+        "Oil",
+        "Salt",
+        "Sugar",
+        "Eggs",
+        "Tomatoes",
+        "Peppers",
+        "Cheese",
+        "Patatoes",
+        "Meat"
+      ],
+      "preperationTime": "50min",
+      "preperationIns": "Preheat oven to 500°F (260°C).   Mix together the butter, garlic, herbs, salt, and pepper in a bowl until evenly combined. Rub the herb butter all over the rib roast, then place on a roasting tray with a rack. Bake for 5 minutes per pound (10 minutes per kilo) of meat, so a 5-pound (2.2 kg) roast would bake for 25 minutes.  Turn off the heat and let the rib roast sit in the oven for 2 hours, making sure you do not open the oven door or else the residual heat will escape.  Once the 2 hours are up, remove the roast from the pan and pour the pan drippings into a saucepan over medium heat."
+    }
+  ]
+}
