@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+HOW TO RUN REACT CODE FROM GITHUB : 
+1.Open your terminal and then type. $ git clone {the url to the GitHub repo} This clones the repo. 
+2.$ npm install. This installs the required dependencies. 3.To run the React project. $ npm start.
+3.cd into the folder  "cd ./server-api/  and type npm start this part is to start the json-server.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
